@@ -1,6 +1,7 @@
 .team {
     background-color: #F4F4FD;
     padding: 120px;
+    border-radius: 0 0 4px 4px;
 }
 
 .team li {
@@ -13,6 +14,7 @@
     color: #2E2F42;
     font-weight: 500;
     line-height: 1.2;
+    margin-bottom: 8px;
 }
 
 .team p {
@@ -27,6 +29,7 @@
     color: #2E2F42;
     text-align: center;
     line-height: 1.11;
+    margin: 72px 0;
 }
 
 .team-container {
@@ -39,5 +42,5 @@
 }
 
 .team-info {
-    padding: 32px 0;
+    padding: 32px 16px;
 }
