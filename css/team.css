@@ -1,5 +1,6 @@
 .team {
     background-color: #F4F4FD;
+    padding: 120px;
 }
 
 .team li {
@@ -26,4 +27,17 @@
     color: #2E2F42;
     text-align: center;
     line-height: 1.11;
+}
+
+.team-container {
+    display: flex;
+    gap: 24px;
+}
+
+.team-item {
+    flex-basis: calc((100%-72px)/4);
+}
+
+.team-info {
+    padding: 32px 0;
 }
