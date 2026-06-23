@@ -29,7 +29,7 @@
 }
 
 .porfolio-item {
-    flex-basis: width: calc((100% -48 px)/3);
+    flex-basis: calc((100% -48 px)/3);
 }
 
 .portfolio-info {
