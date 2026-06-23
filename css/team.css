@@ -1,0 +1,29 @@
+.team {
+    background-color: #F4F4FD;
+}
+
+.team li {
+    background-color: #ffffff;
+}
+
+.team h3 {
+    font-size: 20px;
+    text-align: center;
+    color: #2E2F42;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.team p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.team h2 {
+    font-size: 36px;
+    color: #2E2F42;
+    text-align: center;
+    line-height: 1.11;
+}
