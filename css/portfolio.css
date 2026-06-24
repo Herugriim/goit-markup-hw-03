@@ -2,7 +2,7 @@
     padding: 120px 0;
 }
 
-.portfolio h2 {
+.portfolio-title {
     text-align: center;
     color: #2e2f42;
     font-weight: 700;
@@ -12,7 +12,7 @@
     margin-bottom: 72px;
 }
 
-.portfolio h3 {
+.portfolio-subtitle {
     font-size: 20px;
     line-height: 1.2;
     font-weight: 500;
@@ -23,12 +23,12 @@
 
 .portfolio-container {
     display: flex;
-    gap: 24px 48px;
+    gap: 48px 24px;
     flex-wrap: wrap;
 }
 
-.porfolio-item {
-    flex-basis: calc((100% -48px)/3);
+.portfolio-item {
+    flex-basis: calc((100% - 48px)/3);
 }
 
 .portfolio-info {

@@ -4,6 +4,7 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     font-weight: 500;
+    margin-bottom: 8px;
 }
 
 .features p {
@@ -17,9 +18,13 @@
     display: flex;
     gap: 24px;
     justify-content: center;
-    padding: 120px 0;
+
 }
 
 .features-item {
     flex-basis: calc((100% - 72px)/4);
+}
+
+.features {
+    padding: 120px 0;
 }
